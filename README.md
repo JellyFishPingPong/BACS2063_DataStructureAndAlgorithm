@@ -1,1 +1,1 @@
-In the Control folder, run ProgControl
+Run ProgControl.java
